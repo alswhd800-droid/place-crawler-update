@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.0",
-    "download_url": "https://YOURSERVER.com/update/플레이스%20이미지%20크롤링.exe",
-    "sha256": "671bfd7680da050a11a636e9526111db566799e30d9d2fc0790c2a74c3341fd3"
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/alswhd800-droid/place-crawler-update/releases/download/v1.0.0/플레이스%20이미지%20크롤링.exe",
+  "sha256": "671bfd7680da050a11a636e9526111db566799e30d9d2fc0790c2a74c3341fd3"
 }
